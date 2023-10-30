@@ -1,4 +1,3 @@
-import org.intellij.lang.annotations.Pattern;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -114,7 +113,6 @@ public class ApplicazioneBancaria {
 
 class ContoUtente {
     private String nome;
-   
     private String email;
     private String password;
     private double saldo;
